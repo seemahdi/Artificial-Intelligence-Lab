@@ -44,11 +44,11 @@ It contains implementations of classic AI problems, algorithms, and lab assignme
 
 ## 🌟 Features
 
-- ✔️ Classic AI problem-solving approaches
-- ✔️ Implementations of popular AI algorithms
-- ✔️ Beginner-friendly with clear explanations
-- ✔️ Organized structure for easy navigation
-- ✔️ Extendable for advanced AI projects
+- ✔️ Classic AI problem-solving approaches.
+- ✔️ Implementations of popular AI algorithms.
+- ✔️ Beginner-friendly with clear explanations.
+- ✔️ Organized structure for easy navigation.
+- ✔️ Extendable for advanced AI projects.
 
   
 ---
